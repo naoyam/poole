@@ -3,7 +3,7 @@ title: Poole
 tagline: The Jekyll Butler
 url: https://naoyam.github.io/poole/
 paginate: 1
-baseurl: ""
+baseurl: "https://naoyam.github.io/poole/"
 permalink: pretty
 
 # Gems
